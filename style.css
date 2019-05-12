@@ -1,0 +1,16 @@
+body {
+    background-color: gray;
+}
+
+header {
+    background-color: black;
+    text-align: center;
+    font-size: 50px;
+    font-family: Georgia;
+    font-weight: 900;
+    color: red;
+}
+
+.input {
+    color: red;
+}
